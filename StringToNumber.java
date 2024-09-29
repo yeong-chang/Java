@@ -8,7 +8,7 @@ public class StringToNumber {
         // 형변환: 문자형 => 숫자
         int a = Integer.parseInt(strSeven);
         double b = Double.parseDouble(strPi);
-        // 숫자 계산
+        // 숫자 계산git
         double c = a + b;
         // 결과 출력
         System.out.printf("%d + %.2f = %.2f", a, b, c);
