@@ -1,4 +1,4 @@
-package If_ElseIf;
+package JavaPractice03_If_ElseIf;
 
 public class Beer {
     public static void main(String[] args) {

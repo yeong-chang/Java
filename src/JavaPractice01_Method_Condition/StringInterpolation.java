@@ -9,7 +9,5 @@ public class StringInterpolation {
         //printf %d = 정수형
         System.out.printf(
                 "7 / 2는 %d입니다.", result);
-
-
     }
 }
